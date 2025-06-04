@@ -43,6 +43,6 @@ This project explores the global impact of the COVID-19 pandemic using real-worl
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/COVID19-Portfolio.git
-cd COVID19-Portfolio
+git clone https://github.com/Lake-Commander/covid19_data_insights.git
+cd covid19_data_insights
 
