@@ -1,13 +1,13 @@
 # covid19_data_insights
 A simple data analysis project exploring global COVID-19 trends using basic charts and summaries. Built for learning and sharing key insights from publicly available data.
 
-# 📊 COVID-19 Data Analysis & Dashboard
+#  COVID-19 Data Analysis & Dashboard
 
 This project explores the global impact of the COVID-19 pandemic using real-world data. It includes both an exploratory data analysis (EDA) notebook and an interactive Streamlit dashboard to visualize case trends, deaths, and vaccination progress across countries.
 
 ---
 
-## 🧠 Objectives
+##  Objectives
 
 - Clean and preprocess COVID-19 data.
 - Analyze trends in new cases, deaths, and vaccinations.
@@ -16,12 +16,12 @@ This project explores the global impact of the COVID-19 pandemic using real-worl
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python** (pandas, matplotlib, seaborn)
 - **Jupyter Notebook** (for EDA)
@@ -30,7 +30,7 @@ This project explores the global impact of the COVID-19 pandemic using real-worl
 
 ---
 
-## 📈 Example Visuals (in Notebook)
+##  Example Visuals (in Notebook)
 
 - Line Plot: Daily new cases and vaccinations over time
 - Bar Charts: Top 10 countries by cases, deaths, and vaccinations
@@ -39,7 +39,7 @@ This project explores the global impact of the COVID-19 pandemic using real-worl
 
 ---
 
-## 🚀 Run Locally
+##  Run Locally
 
 ### 1. Clone the Repository
 ```bash
